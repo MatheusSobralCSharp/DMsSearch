@@ -1,0 +1,15 @@
+{
+	"type": {
+		"servers/servidores": "no", 
+		"dm": "yes"
+	},
+	"token": "seu token aqui / your token here",	
+	"words/palavras": [
+		"Airiyu",
+		"place a word here / insira uma palvra aqui"
+	],
+	"regex": [
+		"One Regex / Um Regex",
+		"Another Regex / Outro Regex"
+	]
+}
